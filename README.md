@@ -1,1 +1,1 @@
-# learning-computer-architectures-and-hpc.github.io
+# learning-computer-architectures.github.io
